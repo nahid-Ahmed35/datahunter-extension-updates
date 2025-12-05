@@ -3,7 +3,7 @@
     "downloadUrl": "https://github.com/nahid-Ahmed35/datahunter-extension-updates/releases/download/V.3.14/DataHunter_Extension_v3.14.zip",
     "releaseNotes": "🚀 New Features:\n- Improved performance\n- Bug fixes\n- Added new campaign support",
     "releaseDate": "2024-12-05",
-    "mandatory": false,
+    "mandatory": true,
     "changelog": [
         "Fixed campaign rotation issue",
         "Improved WebSocket connection stability",
