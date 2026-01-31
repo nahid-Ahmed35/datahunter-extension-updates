@@ -1,8 +1,8 @@
 {
-    "version": "3.15",
-    "downloadUrl": "https://github.com/nahid-Ahmed35/datahunter-extension-updates/releases/download/V.3.15/DataHunter_Extension_3.15_OBS10.7z",
+    "version": "4.0",
+    "downloadUrl": "https://github.com/nahid-Ahmed35/datahunter-extension-updates/releases/download/v4.0/DataHunter_Extension_4.0_OBS_1.7z",
     "releaseNotes": "🚀 New Features:\n- Improved performance\n- Bug fixes",
-    "releaseDate": "2026-01-26",
+    "releaseDate": "2026-02-01",
     "mandatory": true,
     "changelog": [
         
