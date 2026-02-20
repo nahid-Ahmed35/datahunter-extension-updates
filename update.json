@@ -1,8 +1,8 @@
 {
-    "version": "4.2",
-    "downloadUrl": "https://github.com/nahid-Ahmed35/datahunter-extension-updates/releases/download/v4.2/DataHunter_Extension_4.2_obs3.7z",
+    "version": "4.3",
+    "downloadUrl": "https://github.com/nahid-Ahmed35/datahunter-extension-updates/releases/download/v4.3/DataHunter_Extension_4.3_obs4.7z",
     "releaseNotes": "🚀 New Features:\n- Improved performance\n- Bug fixes",
-    "releaseDate": "2026-02-06",
+    "releaseDate": "2026-02-20",
     "mandatory": true,
     "changelog": [
         
