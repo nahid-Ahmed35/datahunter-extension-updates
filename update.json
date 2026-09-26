@@ -1,8 +1,8 @@
 {
-    "version": "5.1",
-    "downloadUrl": "https://github.com/nahid-Ahmed35/datahunter-extension-updates/releases/download/5.1/DataHunter_Extension_5.1_version_2.0.zip",
+    "version": "5.2",
+    "downloadUrl": "https://github.com/nahid-Ahmed35/datahunter-extension-updates/releases/download/DataHunter_Extension_5.2_version_2.0/DataHunter_Extension_5.2_version_2.0.zip",
     "releaseNotes": "🚀 New Features:\n- Improved performance\n- Bug fixes",
-    "releaseDate": "2026-06-11",
+    "releaseDate": "2026-09-26",
     "mandatory": true,
     "changelog": [
         
